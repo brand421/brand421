@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brandan, and I'm currently a hobby coder trying to change careers 
-- 🌱 I’m currently learning HTML, CSS, JS, and BS4
+- 🌱 I’m currently learning HTML, CSS, JS, Bootstrap, and C#
 
 
 <!---
